@@ -5,10 +5,10 @@ import "firebase/auth";
 
 // firebase initialization when App mounts
 firebase.initializeApp({
-  apiKey: "AIzaSyAWBBLDXcJcTZl6p4DFzSk-CFGIO6TZFSc",
+  apiKey: "xxx",
   authDomain: "xxx",
   databaseURL: "xxx",
-  projectId: "fir-app-da285",
+  projectId: "xxx",
   storageBucket: "xxx",
   messagingSenderId: "xxx",
   appId: "xxx",
